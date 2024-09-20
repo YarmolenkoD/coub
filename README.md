@@ -4,7 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/coub/app?startapp=coub__marker_18361539)
 
-# THIS IS BOT IS IN PROGRESS #
+# THIS BOT IN DEVELOPMENT #
 # ЭТОТ БОТ ЕЩЕ В РАЗРАБОТКЕ #
 
 # 🚀AUTO FARM FOR COUB 🚀
